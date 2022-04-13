@@ -4,7 +4,7 @@ This is GeoChemFoam, an OpenFOAM-based package developed to perform reactive mul
 
 ######
 
-This is version 4.4 
+This is version 4.5 
 
 ######
 Instalation and running instruction can be find in the user guide in the doc folder
