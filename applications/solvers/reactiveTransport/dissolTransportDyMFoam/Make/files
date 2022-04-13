@@ -1,0 +1,3 @@
+dissolTransportDyMFoam.C
+
+EXE = $(GCFOAM_APPBIN)/dissolTransportDyMFoam
